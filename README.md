@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Abhishek Gadge
-I'm passionate about data and data-oriented roles, with hands-on experience from internships at Infosys Springboard, MedToureasy, Meriskill, and Learning Labs.
+-- I'm passionate about data and data-oriented roles, with hands-on experience from internships at Infosys Springboard, MedToureasy, Meriskill, and Learning Labs.
 
 - 🌱 What I’m Working On
-- I’m actively looking to collaborate on GitHub to publish my work and showcase my projects. If you’re interested in data science, machine learning, or related fields, let's connect!
+-- I’m actively looking to collaborate on GitHub to publish my work and showcase my projects. If you’re interested in data science, machine learning, or related fields, let's connect!
 
 - 💞️ Collaborations
-- Feel free to reach out if you’re interested in collaborating on any projects or just want to discuss data science and analytics.
+-- Feel free to reach out if you’re interested in collaborating on any projects or just want to discuss data science and analytics.
 
  -📫 How to Reach Me
- -Email: abhishekgadge2016@gmail.com
- -Contact: +91 8123346526
+ --Email: abhishekgadge2016@gmail.com
+ --Contact: +91 8123346526
  
 -Looking forward to connecting with fellow enthusiasts and professionals in the field!
 
