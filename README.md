@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Gadge
-- I'm passionate about data and data-oriented roles, with hands-on experience from internships at Infosys Springboard, MedToureasy, Meriskill, and Learning Labs.
+I'm passionate about data and data-oriented roles, with hands-on experience from internships at Infosys Springboard, MedToureasy, Meriskill, and Learning Labs.
 
 - 🌱 What I’m Working On
 - I’m actively looking to collaborate on GitHub to publish my work and showcase my projects. If you’re interested in data science, machine learning, or related fields, let's connect!
